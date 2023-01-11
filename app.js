@@ -26,15 +26,7 @@ let monstros = [
             altura: 1.55,
             habilidades: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et eligendi dolore vel, ex, qui itaque tenetur suscipit magni, architecto voluptatibus animi ipsam eius. Vel voluptatem nostrum distinctio est, repellat temporibus.',
             foto: 'https://robohash.org/Tais'
-        },
-
-        {
-            id:5,
-            nome: 'Leo',
-            altura: 1.55,
-            habilidades: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et eligendi dolore vel, ex, qui itaque tenetur suscipit magni, architecto voluptatibus animi ipsam eius. Vel voluptatem nostrum distinctio est, repellat temporibus.',
-            foto: 'https://robohash.org/Leo'
-        },
+        }
     ]
 
 const secao = document.querySelector('.monstros')
